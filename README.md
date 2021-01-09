@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Platform&Tools
+
+![](https://img.shields.io/badge/macOS-Macintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)
+![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+<!-- ![](https://img.shields.io/badge/IDE-Xcode-246cd9?style=flat-square&logo=xcode&logoColor=ffffff)
+![](https://img.shields.io/badge/-Affinity%20Photo-7e4dd2?style=flat-square&logo=affinity-photo&logoColor=ffffff)-->
+
+![](https://img.shields.io/badge/-Haskell-5d4f85?style=flat-square&logo=haskell&logoColor=ffffff)
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=ffffff)
+
