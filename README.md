@@ -22,11 +22,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Affinity%20Photo-7e4dd2?style=flat-square&logo=affinity-photo&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Haskell-5d4f85?style=flat-square&logo=haskell&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=ffffff)
+![](https://img.shields.io/badge/-Rust-b7410e?style=flat-square&logo=rust&logoColor=ffffff)
 
 #### Coding
 
 ![](https://www.codewars.com/users/Meowcolm024/badges/large)
-
-#### Stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=meowcolm024&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
