@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/-Haskell-5d4f85?style=flat-square&logo=haskell&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Scala-de3423?style=flat-square&logo=scala&logoColor=ffffff)
+<!--
 ![](https://img.shields.io/badge/-Rust-b7410e?style=flat-square&logo=rust&logoColor=ffffff)
 ![](https://img.shields.io/badge/-C/C%2B%2B-007396?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=ffffff)
-
+-->
 
 
 #### Coding
