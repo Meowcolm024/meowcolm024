@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### Platform & Tools
 
-![](https://img.shields.io/badge/macOS-Monterey-292e33?style=flat-square&logo=apple&logoColor=ffffff)
+![](https://img.shields.io/badge/macOS-Ventura-292e33?style=flat-square&logo=apple&logoColor=ffffff)
 ![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
