@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 #### Others
 
 **両儀式は最高だ！**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=meowcolm024)](https://github.com/ryo-ma/github-profile-trophy)
